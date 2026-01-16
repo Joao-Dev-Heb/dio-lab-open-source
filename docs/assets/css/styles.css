@@ -268,3 +268,18 @@ footer p {
     font-size: .9rem;
     color: var(--black);
 }
+/*new style*/
+#bloco1 p{
+    text-align: center;
+}
+#bloco2{
+    width: 50%;
+    margin-right: 2%;
+}
+#bloco3{
+   border-left: 2px solid black;
+    width: 50%;
+}
+#new{
+    display: flex;
+}
